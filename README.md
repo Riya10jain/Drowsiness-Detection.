@@ -184,7 +184,6 @@ B.Tech (ECE) Student
 You can watch the working demo of the Drowsiness Detection System here:
 
 🔗 **Demo Video Link:**
-[Click here to watch the demo]Link-
 https://docs.google.com/videos/d/12vD5FtztKh1FUNaFhf9SNfSqbqGJb6F0Ssq2iaggK3k/edit?usp=sharing
 
 > Replace the above link with your Google Drive / YouTube video link.
@@ -195,7 +194,7 @@ https://docs.google.com/videos/d/12vD5FtztKh1FUNaFhf9SNfSqbqGJb6F0Ssq2iaggK3k/ed
 
 ### 🏠 Home Page
 
-![Home Page](./screenshots/home.png)
+
 <img width="1919" height="1018" alt="1" src="https://github.com/user-attachments/assets/0f0706f2-0bd9-4c59-981a-b18cfb9b1d5a" />
 <img width="1919" height="1024" alt="2" src="https://github.com/user-attachments/assets/2893420c-34bb-4a03-936c-80643e1fca5a" />
 
@@ -204,20 +203,19 @@ https://docs.google.com/videos/d/12vD5FtztKh1FUNaFhf9SNfSqbqGJb6F0Ssq2iaggK3k/ed
 ### 📊 Live Dashboard (Real-Time Monitoring)
 <img width="1661" height="999" alt="3" src="https://github.com/user-attachments/assets/1a6f9b02-9a91-4535-a929-041f43ed40f8" />
 
-![Live Dashboard](./screenshots/dashboard.png)
+
 
 ---
 
 ### ⚠️ Alert System (Warning Stage)
 
-![Alert Warning](./screenshots/alert.png)
+
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/bb1368f3-7a33-431b-bb12-01b61fa749fe" />
 
 ---
 
 ### 📈 Analytics Page
 
-![Analytics](./screenshots/analytics.png)
 <img width="1917" height="971" alt="5" src="https://github.com/user-attachments/assets/58c11097-e84e-4d87-ae51-95233bd2dab4" />
 <img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/fec62422-4ae2-4d3e-84dd-26258648f4b4" />
 
