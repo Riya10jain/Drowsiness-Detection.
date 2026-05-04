@@ -184,7 +184,8 @@ B.Tech (ECE) Student
 You can watch the working demo of the Drowsiness Detection System here:
 
 🔗 **Demo Video Link:**
-[Click here to watch the demo](https://your-video-link-here)
+[Click here to watch the demo]Link-
+https://docs.google.com/videos/d/12vD5FtztKh1FUNaFhf9SNfSqbqGJb6F0Ssq2iaggK3k/edit?usp=sharing
 
 > Replace the above link with your Google Drive / YouTube video link.
 
@@ -253,8 +254,7 @@ drowsiness-frontend/
 ---
 
 ## 🎬 How to Record Demo Video
-Link-
-https://docs.google.com/videos/d/12vD5FtztKh1FUNaFhf9SNfSqbqGJb6F0Ssq2iaggK3k/edit?usp=sharing
+
 You can record using:
 
 * OBS Studio (best)
