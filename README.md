@@ -214,7 +214,7 @@ https://docs.google.com/videos/d/12vD5FtztKh1FUNaFhf9SNfSqbqGJb6F0Ssq2iaggK3k/ed
 
 ---
 
-### 📈 Analytics Page
+### 📈 About Page
 
 <img width="1917" height="971" alt="5" src="https://github.com/user-attachments/assets/58c11097-e84e-4d87-ae51-95233bd2dab4" />
 <img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/fec62422-4ae2-4d3e-84dd-26258648f4b4" />
